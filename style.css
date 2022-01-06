@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #d3dedc;
+}
+
+#app {
+    background-color: #92a9bd;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+
+input {
+    background-color: #ffefef;
+}
